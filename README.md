@@ -1,5 +1,4 @@
 # natystudio
-<!doctype html>
 <html>
 <head>
 <title> natystudio
@@ -15,13 +14,8 @@
 </header>
 <a href="patchwork.html">Patchwork</a> <br>
 <a href="contact me.html">Contact me</a>
-<section>
-
 	<h2>This is my website!</h2>
 <p> My first Site </p>
-
-</section>
-<article>
 	<h3>My Interests </h3>
 	<p> here  </p>
 	<ul>
@@ -30,16 +24,14 @@
 	<li><a href="scuola web/3three/lectures">Lectures</a></li>
 		</ul>
 
-</article>
-<article>
+
 	<h3>My Hobbies</h3>
 <ul>
 	<li><a href="patchwork.html">Patchwork</a></li>
-
+	<li><a href="soapmaking.html">Soapmaking</a></li>
 	</ul>
 <a href="patchwork.html">Patchwork</a>
-</article>
-<article>
+
 	<h3>Contact Me</h3>
 <a href="contact me.html">Contact me</a>
 <p> write me </p>
