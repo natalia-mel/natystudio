@@ -1,3 +1,109 @@
 # natystudio
-3three
+<!doctype html>
+<html>
+<head>
+<title> tree section
+</title>
+<style>
+	body{
+	width:1100px;
+	background: rgb(215,215,255);
+	max-width: 95%;
+	margin: auto;
+	}
+	h1{
+	float:left;
+	color:rgb(100,0,0);
+	margin: 0;	
+	}
+	header h2 {
+	text-align:center;
+	font-weight:normal;
+	color:rgb(0,150,175);	
+	}
+	section {
+	background:rgb(255,215,200);
+	padding: 10px 100px;	
+	}
 
+	section h2 {
+	text-align:center;
+	color:rgb(0,100,150);
+	}
+
+	section p {
+	
+	color:rgb(0,150,50);
+	}
+
+	article{
+	background:rgb(255,255,255);
+	float:left;
+	width:29.3%;
+	margin: 1%;
+	padding: 1%;
+	height:200px;	
+	}
+	h2 {
+	color:rgb(45,45,45);
+	}
+	article p {
+	color:rgb(75,75,75);
+	}
+	li {
+	color:rgb(75,75,75);
+	}
+	footer {
+	text-align:center;
+	background:rgb(175,175,175);
+	clear:left;
+	padding: 20px;
+	}
+</style>
+
+
+</head>
+<body>
+
+<header>
+	<h1>natystudio.com </h1>
+	<h2>where you can learn cool stuff about me  </h2>
+</header>
+<a href="patchwork.html">Patchwork</a>
+<a href="contact me.html">Contact me</a>
+<section>
+
+	<h2>This is my website!</h2>
+<p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. </p>
+
+</section>
+<article>
+	<h3>My Interests </h3>
+	<p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
+
+</article>
+<article>
+	<h3>My Hobbies</h3>
+<ul>
+	<li><a href="scuola web/3three/life coaching"> Life Coaching</a></li>
+	<li><a href="scuola web/3three/web dev">Web Dev</a></li>
+	<li><a href="scuola web/3three/lectures">Lectures</a></li>
+	<li><a href="patchwork.html">Patchwork</a></li>
+
+	</ul>
+<a href="patchwork.html">Patchwork</a>
+</article>
+<article>
+	<h3>Contact Me</h3>
+<a href="contact me.html">Contact me</a>
+<p> write me </p>
+<p> melnicenco@gmail.com </p>
+</article>
+
+<footer>
+<p> https://natystudio.com  </p>
+<p> next </p>
+</footer>
+
+</body>
+</html>
